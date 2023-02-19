@@ -1,1 +1,4 @@
 https://www.pololu.com/product/4000
+
+
+distance between left pin on one side of +ve/-ve rails and right pin on other side of +ve/-ve rails is 46.4 according to the image and 48.52 according to Peter
