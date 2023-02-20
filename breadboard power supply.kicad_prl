@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 44,
-    "active_layer_preset": "Arranging",
+    "active_layer": 0,
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -60,8 +60,8 @@
       35,
       36
     ],
-    "visible_layers": "ff1ffdf_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ff1ffff_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "breadboard power supply.kicad_prl",

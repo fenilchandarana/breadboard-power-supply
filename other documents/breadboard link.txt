@@ -3,6 +3,7 @@ https://www.pololu.com/product/4000
 
 distance between left pin on one side of +ve/-ve rails and right pin on other side(outer) of +ve/-ve rails is 46.4 according to the image and 48.52(43.25 inner) according to Peter
 
+for GL12 840 points breadboard
 inner 48mm
 width 62mm
 margin upper 10mm
